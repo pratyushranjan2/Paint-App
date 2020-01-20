@@ -1,2 +1,2 @@
 # Paint-App
-Paint App using tinter
+Paint App using tkinter
